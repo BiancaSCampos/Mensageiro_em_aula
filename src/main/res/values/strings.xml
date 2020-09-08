@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mensageiro em aula</string>
+    <string name="enviar">Enviar mensagem</string>
+    <string name="dica">Coloque aqui sua mensagem</string>
+</resources>
